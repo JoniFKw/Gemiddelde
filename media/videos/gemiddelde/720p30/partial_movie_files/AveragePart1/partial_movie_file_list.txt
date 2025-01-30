@@ -1,0 +1,6 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart1/2016333726_1432596116_2710617368.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart1/543634251_1969164981_3152231938.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart1/543634251_4071516364_384585824.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart1/543634251_946019218_2250357526.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart1/543634251_4071516364_705785087.mp4'

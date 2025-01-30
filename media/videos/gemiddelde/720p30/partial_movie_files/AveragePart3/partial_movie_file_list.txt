@@ -1,0 +1,13 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/2016333726_1152899424_223132457.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_434698268.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_437832522_2593279345.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_1858617606.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_1525259353_1471294768.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4153712780_1471294768.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_1990891429.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_1595725872.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_2723455295_387432073.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_447239400.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_1343366996_2119745150.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart3/543634251_4071516364_159622926.mp4'

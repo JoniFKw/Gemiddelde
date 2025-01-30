@@ -1,0 +1,9 @@
+# This file is used internally by FFMPEG.
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/2016333726_1137507897_23669239.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_4071516364_3878395424.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_3041911640_3143600381.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_4071516364_1573073543.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_1821136393_554207670.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_4071516364_1041698822.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_457040701_78584382.mp4'
+file 'file:C:/Users/joni1/Manim/ManimProject/Formulas/Gemiddelde/media/videos/gemiddelde/720p30/partial_movie_files/AveragePart6/543634251_4071516364_2637651406.mp4'
